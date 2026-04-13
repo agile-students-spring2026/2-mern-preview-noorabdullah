@@ -82,7 +82,7 @@ app.post('/messages/save', async (req, res) => {
 app.get('/about', (req, res) => {
   res.json({
     name: 'Noor Abdullah',
-    photo: 'https://media.licdn.com/dms/image/v2/D5603AQHlJrFhlep5CA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707299409283?e=1777507200&v=beta&t=eCyD1H8_KNRYiSpsM5EeOfl1T_KW74JlFNvigqaOzCw',
+    photo: 'https://https://drive.google.com/uc?export=view&id=1lHKIsy1Xpc2nbhO8CxeNIlHslS8KtGZh/',
     paragraphs: [
       'Hi, I\'m Abdullah Noor -- a passionate full-stack developer with a keen interest in building modern web applications using the MERN stack (MongoDB, Express, React, and Node.js).',
       'I am currently studying Interactive Media and enjoy turning complex problems into clean, user-friendly solutions. I love working across the full stack, from designing RESTful APIs on the back end to crafting responsive UIs on the front end.',

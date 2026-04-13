@@ -1,0 +1,28 @@
+.AboutUs-container {
+  max-width: 700px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  text-align: center;
+}
+
+.AboutUs-photo {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 1rem 0;
+  border: 3px solid #ccc;
+}
+
+.AboutUs-container p {
+  text-align: left;
+  line-height: 1.7;
+  margin-bottom: 1rem;
+}
+
+.AboutUs-error,
+.AboutUs-loading {
+  text-align: center;
+  margin-top: 2rem;
+  color: #666;
+}
